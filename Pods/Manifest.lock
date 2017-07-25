@@ -1,0 +1,20 @@
+PODS:
+  - BaiduMapKit (2.9.0.2)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - Masonry (0.6.3)
+
+DEPENDENCIES:
+  - BaiduMapKit
+  - FMDB
+  - Masonry
+
+SPEC CHECKSUMS:
+  BaiduMapKit: 00f2c2d24a3192b251cff6c8c0847ea40e81fa09
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+
+COCOAPODS: 0.39.0
